@@ -1,3 +1,10 @@
+---
+statistics: true
+comments: false
+home: true
+title: "tkzsdwm"
+---
+
 ### Welcome to my github page!
 ### author: tkzsdwm
 ---
