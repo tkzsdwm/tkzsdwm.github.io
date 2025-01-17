@@ -30,4 +30,4 @@ theme:
       timezone: Asia/Beijing
       enable_creation_date: true
   nav:
-  - Home: index.md
+  - Home: docs/index.md
